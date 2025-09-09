@@ -1,4 +1,6 @@
-# Proxmox-Container-Locked
+# Proxmox-Container-Locked ![Proxmox Badge](https://img.shields.io/badge/Proxmox-orange?logo=proxmox&logoColor=white)
+
+
 Documentation on how to resolve a locked lxc/container in proxmox
 
 Example of a locked container
