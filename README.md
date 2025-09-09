@@ -2,6 +2,7 @@
 documentation on how to resolve a locked lxc/container in proxmox
 
 Example of a locked container
+
 ![Alt text](image/lockedlxc.png)
 
 To fix it:
